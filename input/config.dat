@@ -1,0 +1,8 @@
+#nx ny nz  : domain size (cell size is 32)
+120 78 78 
+#xo yo zo  : origin of coordinate
+0.0 0.0 0.0
+#output interval, end time 
+100000 500
+#RGs :nucleus stiffness
+8.0
